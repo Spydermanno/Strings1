@@ -23,7 +23,7 @@ public class ABCD {
         //Last index exclusive hota h
         System.out.print(s4.substring(6));
         //string length pass karenge to empty string dega
-        
+        //First index hota h aur assume kiya jaata h ki agar kuch nahi h to last index final index h
 	}
 }
 	
